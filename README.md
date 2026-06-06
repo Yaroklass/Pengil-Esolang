@@ -1,10 +1,10 @@
 # PENGIL
 
-**Pengil** is a 2D, single-register esoteric programming language and cell-based mini game engine. Heavily inspired by Befunge-93, it was specifically engineered to turn the process of game development into an absolute, unadulterated nightmare.
+**Pengil** is a 2D, single-register esoteric programming language and cell-based mini game engine. Heavily inspired by Befunge, it was specifically engineered to turn the process of game development into an nightmare.
 
 ## Specification
 
-You are given a 2D canvas of 80x25 cells and a single data buffer. Traditional memory does not exist — the screen output is your only storage.
+You are given a 2D canvas of 80x25 cells and a single data buffer. Memory does not exist — only variable g.
 
 ## Code Example
 
